@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript.
 - 📫 reach me in instagram @jasiiin999.
 - 😄 Pronouns: He
-- ⚡ Fun fact: I to be full stack developer but hate backend.
+- ⚡ Fun fact: I want to be full stack developer but hate backend.
 
 <!---
 jasiiin999/jasiiin999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
